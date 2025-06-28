@@ -1,2 +1,0 @@
-﻿ntk_5.4.obj : error LNK2019: unresolved external symbol __readfsdword referenced in function getTib
-C:\Users\jorge\Documents\GitHub\UNPL\unpl-elevatorsim-elevator_sim_group_2\project\Elevator_simulation\x64\Debug\Elevator_simulation.exe : fatal error LNK1120: 1 unresolved externals

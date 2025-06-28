@@ -1,6 +1,0 @@
-﻿  elevatorControls.c
-C:\Users\jorge\Documents\GitHub\UNPL\unpl-elevatorsim-elevator_sim_group_2\project\Elevator_simulation\elevatorControls.c(25,28): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
-C:\Users\jorge\Documents\GitHub\UNPL\unpl-elevatorsim-elevator_sim_group_2\project\Elevator_simulation\elevatorControls.c(10,6): warning C4047: 'initializing': 'int' differs in levels of indirection from 'void *'
-C:\Users\jorge\Documents\GitHub\UNPL\unpl-elevatorsim-elevator_sim_group_2\project\Elevator_simulation\elevatorControls.c(59,3): warning C4013: 'printf' undefined; assuming extern returning int
-C:\Users\jorge\Documents\GitHub\UNPL\unpl-elevatorsim-elevator_sim_group_2\project\Elevator_simulation\elevatorControls.c(52): warning C4715: 'checkAcceptedRequests': not all control paths return a value
-  Elevator_simulation.vcxproj -> C:\Users\jorge\Documents\GitHub\UNPL\unpl-elevatorsim-elevator_sim_group_2\project\Elevator_simulation\Debug\Elevator_simulation.exe
